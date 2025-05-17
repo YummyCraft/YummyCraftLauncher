@@ -1,0 +1,11 @@
+bottle==0.13.3
+certifi==2025.4.26
+charset-normalizer==3.4.2
+idna==3.10
+minecraft-launcher-lib @ git+https://github.com/Oskar6656/minecraft-launcher-lib.git@44089445a8c2304a8a9fa2556029d29f94d81336
+proxy_tools==0.1.0
+psutil==7.0.0
+pywebview==5.4
+requests==2.32.3
+typing_extensions==4.13.2
+urllib3==2.4.0
